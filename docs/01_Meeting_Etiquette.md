@@ -11,6 +11,7 @@ Following a clear protocol for meetings ensures they are efficient, productive, 
 ### NOTE!
 -   **Custom Wallpaper**: Make a custom wallpaper for your video meetings that has your name (variants and pronunciation if necessary), email address, and team/class at least. But, you can also include your GitHub/socials, interests, open for work/internships/work experience in fields x, y, and z, skills snapshot (a list of technologies and platforms and your proficiency level.
 
+```ASCII
 +----------------------------------------------------------------------------------------------------------+
 |                                                                                                          |
 | COMP3001 // Software Team #3                                     SEEKING - WORK EXPERIENCE / INTERNSHIPS |
@@ -28,7 +29,7 @@ Following a clear protocol for meetings ensures they are efficient, productive, 
 |                                                                                                          |
 |                                                                                                          |
 +----------------------------------------------------------------------------------------------------------+
-
+```
 
 ## During the Meeting
 -   **Work *with* the AI notetaker**: Everything you say is transcribed. This transcription will be processed through an LLM and important information can be extracted. This includes key decisions made during the meeting, follow-up tasks and who they were assigned to. But, clarity is important so ensure you provide the LLM with as much additinal information and context as possible. 

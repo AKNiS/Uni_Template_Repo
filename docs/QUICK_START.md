@@ -11,18 +11,19 @@ Get your team repository up and running FAST. Follow these essential steps in or
 
 ```mermaid
 graph LR
-    A[1. Use Template] --> B[2. Clone Repo]
-    B --> C[3. Run Setup]
-    C --> D[4. Update Team Info]
-    D --> E[5. First Commit]
-    E --> F[🎉 Ready!]
+    A[Use Template] --> B[Clone Repo]
+    B --> C[Run Setup]
+    C --> D[Update Team Info]
+    D --> E[First Commit]
+    E --> F[Ready!]
     
-    style A fill:#e1f5e1
-    style B fill:#e1f5e1
-    style C fill:#fff4e1
-    style D fill:#fff4e1
-    style E fill:#e1e5f5
-    style F fill:#f5e1e1
+    style A fill:#e1f5e1,color:#000000
+    style B fill:#e1f5e1,color:#000000
+    style C fill:#fff4e1,color:#000000
+    style D fill:#fff4e1,color:#000000
+    style E fill:#e1e5f5,color:#000000
+    style F fill:#f5e1e1,color:#000000
+
 ```
 
 ---
